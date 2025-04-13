@@ -561,7 +561,7 @@ local function createGUI()
         local Luna = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nebula-Softworks/Luna-Interface-Suite/refs/heads/main/source.lua", true))()
 
         local Window = Luna:CreateWindow({
-            Name = "Kagu Hub | War Tycoon 1.0.0",
+            Name = "Kagu Hub | War Tycoon 1.1.0",
             Subtitle = nil,
             LogoID = "82795327169782",
             LoadingEnabled = true,
